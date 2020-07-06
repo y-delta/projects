@@ -2,6 +2,7 @@
 List of all the side-projects persued 
 
 Here contained are list of projects spanning various domains:
+
     - Downloaded Files Sorting Script - file_sort.py
     - Coronavirus Tracker - coronavirus.py
 
