@@ -29,7 +29,7 @@ $ python3 coronavirus.py KA
 To get stats about a specific district; 
 ```sh
 $ python3 coronavirus.py 'stateName' 'districtName'
-$ python3 coronavirus.py Maharashtra Mubmai
+$ python3 coronavirus.py Maharashtra Mumbai
 ```
 
 License
