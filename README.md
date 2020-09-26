@@ -5,6 +5,7 @@ Here contained are list of projects spanning various domains:
 
     - Downloaded Files Sorting Script - file_sort.py
     - Coronavirus Tracker - coronavirus.py
+    - Website Status Checker - resultCheck.py
 
 
 ### How to execute?
@@ -30,6 +31,11 @@ To get stats about a specific district;
 ```sh
 $ python3 coronavirus.py 'stateName' 'districtName'
 $ python3 coronavirus.py Maharashtra Mumbai
+```
+
+For Website Status Checker, change the web-address to reflect your needs and run the script in background
+```sh
+$ python3 resultCheck.py
 ```
 
 License
